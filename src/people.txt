@@ -1,0 +1,10 @@
+Harry Potter 2.67
+Ron Qeasley 1.67
+Hermione Granger 4.0
+Luna Lovegood 2.33
+Draco Malfoy 3.25
+Severus Snape Employee 800000
+Albus Dumbledore Employee 1500000
+Minerva McGonagall Employee 1100000
+Bellatrix Lestrange Employee  570000
+Sirius Black Employee 750000
