@@ -1,5 +1,0 @@
-Severus Snape Manager 800000
-Albus Dumbledore Manager 1500000
-Minerva McGonagall Developer 1100000
-Bellatrix Lestrange Director  570000
-Sirius Black Administrator 750000
